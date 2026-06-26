@@ -1,4 +1,3 @@
-import React from 'react';
 import { FadeIn } from './FadeIn';
 import { AnimatedText } from './AnimatedText';
 import { ContactButton } from './ContactButton';
@@ -48,7 +47,7 @@ export function AboutSection() {
 
       <div className="z-10 mt-10 sm:mt-14 md:mt-16 flex flex-col items-center">
         <AnimatedText 
-          text="With a solid foundation in Computer Science and hands-on experience in full-stack web development, I specialize in building scalable web applications. My expertise spans Python, Django, React, and MongoDB, alongside a strong interest in Cloud Computing and DevOps. I'm passionate about developing data-driven solutions and intelligent software. Let's build something incredible together!"
+          text="With a solid foundation in Computer Science and hands-on experience in full-stack web development, I specialize in building scalable web applications. My expertise spans Python, Dj[...]" 
           className="text-[#D7E2EA] font-medium text-center leading-relaxed max-w-[560px] text-[clamp(1rem,2vw,1.35rem)] mb-16 sm:mb-20 md:mb-24"
         />
         

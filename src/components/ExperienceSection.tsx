@@ -1,4 +1,3 @@
-import React from 'react';
 import { FadeIn } from './FadeIn';
 
 const services = [
